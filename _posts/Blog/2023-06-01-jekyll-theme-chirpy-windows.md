@@ -66,7 +66,7 @@ bundle
     - avatar: Repository 루트 디렉토리 기준 이미지 경로 지정
 
 
-### Local Execution
+### Local execution
 1. Repository의 루트 디렉토리에서 다음 명령 실행
 ```sh
 bundle exec jekyll s
