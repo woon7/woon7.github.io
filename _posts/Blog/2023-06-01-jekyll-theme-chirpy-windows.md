@@ -34,7 +34,7 @@ Windows 환경에서 Chirpy 테마를 적용해서 GitHub Pages를 만드려고 
     ```
 
 
-### Create new repository
+### Create a new repository
 ---
 1. [chirpy-starter](https://github.com/cotes2020/chirpy-starter/)를 방문해서 새로운 Repository를 생성한다.
     1. Use this template 클릭
