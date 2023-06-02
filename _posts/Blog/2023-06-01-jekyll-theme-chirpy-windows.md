@@ -1,6 +1,6 @@
 ---
 title: "[Blog] Windows 환경에서 Chirpy Jekyll Theme를 적용한 GitHub Pages 블로그 만들기"
-date: 2023-06-01 +0900
+date: 2023-06-01 00:00:00 +0900
 categories: [Blog]
 tags: [blog, jekyll, chirpy, github, windows]
 ---
