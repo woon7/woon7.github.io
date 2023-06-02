@@ -13,9 +13,8 @@ tags: [blog, jekyll, chirpy, github, post, markdown]
 
 ### .md 파일 생성
 ---
-1. `username.github.io/_posts/` 디렉토리 밑에 새로운 디렉토리를 생성한다.
+1. 파일 관리를 위해 `username.github.io/_posts/` 디렉토리 밑에 새로운 디렉토리를 생성한다.
     - 필자의 경우에는 `Blog` 디렉토리를 만들었다.
-    - 생성된 디렉토리는 Categories에 자동으로 등록된다.
 2. 생성한 디렉토리로 들어가 `.md` 파일을 생성한다.
 
 
