@@ -36,6 +36,7 @@ tags: [blog, jekyll, chirpy, github]
 
 1. 먼저 `_config.yml`에 Twitter와 관련된 항목들을 주석처리한다.
     > Footer에 있는 Social Name에 연결되어 있는 링크 변경
+
     ``` yml
     # twitter:
     #   username: twitter_username # change to your twitter username
