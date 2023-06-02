@@ -1,6 +1,6 @@
 ---
 title: "[Blog] Chirpy Jekyll Theme 커스터마이징"
-date: 2023-06-02 +0900
+date: 2023-06-02 01:00:00 +0900
 categories: [Blog]
 tags: [blog, jekyll, chirpy, github]
 ---

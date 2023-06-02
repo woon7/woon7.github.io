@@ -1,6 +1,6 @@
 ---
 title: "[Blog] Chirpy Jekyll Theme Comment 기능 추가하기"
-date: 2023-06-02 +0900
+date: 2023-06-02 03:00:00 +0900
 categories: [Blog]
 tags: [blog, jekyll, chirpy, github, comment, utterances]
 ---

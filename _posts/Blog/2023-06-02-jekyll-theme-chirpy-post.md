@@ -1,6 +1,6 @@
 ---
 title: "[Blog] Chirpy Jekyll Theme 포스트 작성"
-date: 2023-06-02 +0900
+date: 2023-06-02 01:00:00 +0900
 categories: [Blog]
 tags: [blog, jekyll, chirpy, github, post, markdown]
 ---
@@ -27,7 +27,7 @@ tags: [blog, jekyll, chirpy, github, post, markdown]
     ```md
     ---
     title: "[Blog] Chirpy Jekyll Theme Google 검색 노출하기"
-    date: 2023-06-02 +0900
+    date: 2023-06-02 00:00:00 +0900
     categories: [Blog]
     tags: [blog, jekyll, chirpy, post, markdown]
     ---
