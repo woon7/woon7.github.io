@@ -63,40 +63,8 @@ tags: [blog, jekyll, chirpy, github]
 다 좋은데 테마 설명이 은근 거슬린다. 지워버리자.
 
 1. `_includes/footer.html`에 다음 항목을 주석처리한다.
-    ```html
-    <footer>
-    <div class="container px-lg-4">
-        <div class="d-flex justify-content-center align-items-center text-muted mx-md-3">
-        <!-- <p>
-            {%- capture _platform -%}
-            <a href="https://jekyllrb.com" target="_blank" rel="noopener">Jekyll</a>
-            {%- endcapture -%}
 
-            {%- capture _theme -%}
-            <a href="https://github.com/cotes2020/jekyll-theme-chirpy" target="_blank" rel="noopener">Chirpy</a>
-            {%- endcapture -%}
-
-            {{ site.data.locales[include.lang].meta | replace: ':PLATFORM', _platform | replace: ':THEME', _theme }}
-        </p> -->
-
-        <p>
-            {{- '©' }}
-            {{ 'now' | date: '%Y' }}
-            <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>.
-            {% if site.data.locales[include.lang].copyright.brief %}
-            <span
-                data-bs-toggle="tooltip"
-                data-bs-placement="top"
-                title="{{ site.data.locales[include.lang].copyright.verbose }}"
-            >
-                {{- site.data.locales[include.lang].copyright.brief -}}
-            </span>
-            {% endif %}
-        </p>
-        </div>
-    </div>
-    </footer>
-    ```
+    ![footer.html](/assets/img/2023-06-02-jekyll-theme-chirpy-customizing-1.png)
 
 2. 어느 정도 깔끔해졌지만 css로 인해 자동 생성되는 `-`문자와 여백이 거슬린다. `_sass/addon/commons.scss`에 다음 항목을 주석처리한다.
     ```scss
