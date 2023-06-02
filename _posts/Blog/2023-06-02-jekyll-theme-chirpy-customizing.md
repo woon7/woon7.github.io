@@ -50,6 +50,7 @@ tags: [blog, jekyll, chirpy, github]
 
 2. `_data/contact.yml`에 다음 항목을 주석처리한다.
     > Twitter 아이콘 삭제
+    
     ``` yml
     # - type: twitter
     #   icon: "fab fa-twitter"
