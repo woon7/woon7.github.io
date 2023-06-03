@@ -8,8 +8,7 @@ tags: [blog, jekyll, chirpy, github, windows]
 
 ### Introduction
 ---
-Windows 환경에서 Chirpy 테마를 적용해서 GitHub Pages를 만드려고 하면 무슨 일에서인지 잘 되지 않는다.
-
+Windows 환경에서 Chirpy 테마를 적용해서 GitHub Pages를 만드려고 하면 무슨 일에서인지 잘 되지 않는다.  
 여러 삽질 끝에 배포에 성공한 방법을 공유하고자 한다.
 
 

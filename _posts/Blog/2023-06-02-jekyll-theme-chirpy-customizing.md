@@ -8,8 +8,7 @@ tags: [blog, jekyll, chirpy, github]
 
 ### Introduction
 ---
-[chirpy-starter](https://github.com/cotes2020/chirpy-starter/)를 이용해서 GitHub Pages 블로그를 생성했다.
-
+[chirpy-starter](https://github.com/cotes2020/chirpy-starter/)를 이용해서 GitHub Pages 블로그를 생성했다.  
 그러나 뭔가 맘에 들지 않는 부분들이 보인다. 전체적인 틀은 유지한 상태에서 입맛에 맞게 수정을 해보자.
 
 
