@@ -40,7 +40,7 @@ tags: [blog, jekyll, chirpy, github, comment, utterances]
 
 ### Comment 관리
 ---
-1. Comment가 정상적으로 입력되면 댓글 최상단에 1 Comment라는 문구가 뜬다. 눌러보자.
+1. Comment가 정상적으로 입력되면 댓글 최상단에 `1 Comment`라는 문구가 뜬다. 눌러보자.
 2. GitHub Issues 페이지에서 utterances-bot에 의해 자동 생성된 Issue를 발견할 수 있다.
 3. 해당 페이지에서 Comment 관리를 할 수 있다.
 
