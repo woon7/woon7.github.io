@@ -1,5 +1,5 @@
 ---
-title: "[Blog] Chirpy Jekyll Theme 커스터마이징"
+title: "[Blog] Chirpy Jekyll Theme (2) - 커스터마이징"
 date: 2023-06-02 01:00:00 +0900
 categories: [Blog]
 tags: [blog, jekyll, chirpy, github]
@@ -29,7 +29,7 @@ tags: [blog, jekyll, chirpy, github]
     - _sass: 페이지 스타일 정의가 들어있는 디렉토리
 
 
-### 사용하지 않는 소셜 링크 삭제하기
+### 사용하지 않는 소셜 링크 삭제
 ---
 필자는 Twitter를 하지 않기 때문에 메뉴 하단과 Footer에 연결돼있는 Twitter 링크를 삭제해보겠다.
 
@@ -57,7 +57,7 @@ tags: [blog, jekyll, chirpy, github]
     ```
 
 
-### Footer에 보기 싫은 테마 설명 삭제하기
+### Footer에 테마 설명 삭제
 ---
 다 좋은데 테마 설명이 은근 거슬린다. 지워버리자.
 

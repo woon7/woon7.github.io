@@ -1,5 +1,5 @@
 ---
-title: "[Blog] Chirpy Jekyll Theme Comment 기능 추가하기"
+title: "[Blog] Chirpy Jekyll Theme (4) - Comment 기능 추가"
 date: 2023-06-02 03:00:00 +0900
 categories: [Blog]
 tags: [blog, jekyll, chirpy, github, comment, utterances]
@@ -16,14 +16,14 @@ tags: [blog, jekyll, chirpy, github, comment, utterances]
 1. [GitHub Marketplace - Utterances](https://github.com/marketplace/utterances)에 접속
 2. Set up a plan -> Install it for free
 3. Billing information 입력 후 Install
-4. Only select repositories -> `username`.github.io 선택
+4. Only select repositories -> `username.github.io` 선택
 5. Install
 
 
-### Chirpy에 Utterances 연동하기
+### Chirpy에 Utterances 연동
 ---
 1. [Utterances Wiki](https://utteranc.es/) 접속
-2. Configuration - Repository - repo: 밑 Textbox에 `username`/`username`.github.io 입력
+2. Configuration - Repository - repo: 밑 Textbox에 `username/username.github.io` 입력
 3. Enable Utterances 밑에 Script 복사
     ```html
     <script src="https://utteranc.es/client.js"
@@ -38,7 +38,7 @@ tags: [blog, jekyll, chirpy, github, comment, utterances]
 5. 블로그를 띄우면 Post 밑에 댓글 기능이 생긴 것을 확인할 수 있다. Comment를 달아보자.
 
 
-### Comment 관리하기
+### Comment 관리
 ---
 1. Comment가 정상적으로 입력되면 댓글 최상단에 1 Comment라는 문구가 뜬다. 눌러보자.
 2. GitHub Issues 페이지에서 utterances-bot에 의해 자동 생성된 Issue를 발견할 수 있다.

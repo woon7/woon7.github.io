@@ -1,6 +1,6 @@
 ---
-title: "[Blog] Chirpy Jekyll Theme 포스트 작성"
-date: 2023-06-02 01:00:00 +0900
+title: "[Blog] Chirpy Jekyll Theme (3) - 포스트 작성"
+date: 2023-06-02 02:00:00 +0900
 categories: [Blog]
 tags: [blog, jekyll, chirpy, github, post, markdown]
 ---
@@ -39,6 +39,6 @@ tags: [blog, jekyll, chirpy, github, post, markdown]
     ```
 
 
-### Markdown 문법으로 글 작성하기
+### Markdown 문법으로 글 작성
 ---
 [마크다운(Markdown) 사용법](https://gist.github.com/ihoneymon/652be052a0727ad59601)을 숙지하고 원하는 글을 작성해보자.

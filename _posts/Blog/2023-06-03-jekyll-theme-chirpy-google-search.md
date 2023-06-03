@@ -1,6 +1,6 @@
 ---
-title: "[Blog] Chirpy Jekyll Theme Google 검색 노출하기"
-date: 2023-06-03 +0900
+title: "[Blog] Chirpy Jekyll Theme (5) - Google 검색 노출"
+date: 2023-06-03 01:00:00 +0900
 categories: [Blog]
 tags: [blog, jekyll, chirpy, google, sitemap]
 ---
