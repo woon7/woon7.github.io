@@ -18,12 +18,14 @@ Windows 환경에서 Chirpy 테마를 적용해서 GitHub Pages를 만드려고 
     ```ps
     wsl --install
     ```
+    - wsl 명령어를 인식하지 못하면 Windows를 최신 버전으로 업데이트 해주는 것이 좋다.
 
 2. Microsoft Store에 들어가 Windows Terminal 앱을 설치 및 실행한다. (Optional)
     - 윈도우 환경에서 터미널을 편하게 사용할 수 있어서 추천
 
 3. Ubuntu를 실행하고 다음을 차례대로 입력한다.
     ```sh
+    sudo apt-get update
     sudo apt-get install ruby-full build-essential zlib1g-dev
     echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
     echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
@@ -31,6 +33,9 @@ Windows 환경에서 Chirpy 테마를 적용해서 GitHub Pages를 만드려고 
     source ~/.bashrc
     gem install jekyll bundler
     ```
+    - Ubuntu 접속에 실패하는 경우
+      - Windows 기능 켜기/끄기 -> Hyper-V 활성화
+      - BIOS -> 가상화 기술 활성화
 
 
 ### Create a new repository
